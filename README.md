@@ -50,3 +50,4 @@ Open the program called *list_utils.py*
 ```
 python3 -m unittest test_list_utils.py 
 ```
+[![Run on Repl.it](https://repl.it/badge/github/jlat07/PythonFundamentals.Exercises.Part5)](https://repl.it/github/jlat07/PythonFundamentals.Exercises.Part5)
